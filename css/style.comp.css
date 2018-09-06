@@ -49,9 +49,6 @@
 
 html {
   font-size: 62.5%; }
-  @media (max-width: 600px) {
-    html {
-      font-size: 50%; } }
   @media (max-width: 75em) {
     html {
       font-size: 56.25%; } }
